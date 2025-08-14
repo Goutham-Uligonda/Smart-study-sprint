@@ -84,4 +84,4 @@ Here’s how the app looks in action:
 1. Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
